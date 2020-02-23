@@ -1,11 +1,11 @@
 # vue_shop
 
-## Project setup
+## 项目初始化
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 启动项目
 ```
 npm run serve
 ```
